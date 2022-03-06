@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Learning vue JS",
+      "details": "Leraning vue JS to become a MEVN developer in the future",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Finishing ARA website",
+      "details": "ARA website for HMIT event",
+      "complete": false
+    },
+    {
+      "title": "Finish teknologi multimedia task",
+      "details": "For get a great ip for 4th semester",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Finish lpj ristek",
+      "details": "Untuk memenuhi tanggung jawab sebagai staf rister",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
